@@ -17,7 +17,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #   for each of LISTS, STRINGS and TUPLES:
 #      -- HOW to BUILD UP them, using the ACCUMULATOR pattern.
 #   then:
-#      change the above _TODO_ to DONE.
+#      change the above _TODO_ to DONE..
 # -----------------------------------------------------------------------------
 
 
